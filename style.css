@@ -1,0 +1,32 @@
+body {
+  background-color: #e0faff;
+  font-family: 'Pacifico';
+}
+h1, h2 {
+  color: #e22f89;
+}
+
+p {
+  color: #e99fc4;
+}
+ul {
+  border: 2px #e22f89;
+}
+
+ol {
+  border: 2px #e22f89;
+}
+
+ol, ul {
+  padding: 5px 20px;
+  border-radius: 4px;
+}
+    
+strong {
+  color: #e22f89;
+}
+
+em {
+  color: #e99fc4;
+}
+    
